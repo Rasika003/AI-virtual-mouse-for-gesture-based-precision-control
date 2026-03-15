@@ -259,13 +259,3 @@ User specific gesture calibration
 MIT License
 
 ---
-
-If you want, next I can create
-
-• IEEE research paper level full documentation
-• Very strong viva explanation
-• Resume project description (placement ready)
-• Future scope and research gap section
-• Full working module flow with algorithms
-
-Just tell.
