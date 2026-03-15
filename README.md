@@ -1,11 +1,11 @@
----
+
 
 # AI-Virtual-Mouse-for-Gesture-Based-Precision-Control
 
 **Research Project:** Vision-Based Human Computer Interaction using Artificial Intelligence
 **Research Focus:** Real-Time Gesture Recognition for Touchless Cursor Navigation and Precision Control
 
----
+
 
 ## Abstract
 
